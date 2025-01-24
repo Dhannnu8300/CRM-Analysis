@@ -4,7 +4,8 @@
 Developed KPI dashboards and conducted Data Modelling and Data Transformation to track
 sales performance and lead conversion trends.
 
-Technologies Used: SQL, Power BI, Tableau, Excel
+## Technologies Used: 
+SQL, Power BI, Tableau, Excel
 
 # Key Contributions:
 - In this Project we focused on analysing sales and lead data to monitor the pipeline, expected revenue, and conversion rates. 
